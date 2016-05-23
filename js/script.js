@@ -17,8 +17,5 @@ $(document).ready(function(){
     
     $("#toJSObject").click(function(){
         console.log(jsObject);
-      
-    });
-    
-    
+});
 });
